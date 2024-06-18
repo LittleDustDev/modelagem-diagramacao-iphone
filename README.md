@@ -14,7 +14,7 @@ Este projeto visa modelar e diagramar um componente iPhone, focando nas funciona
 
 
 
-## DIAGRAMA UML
+## DIAGRAMA UML (Mermaid)
 
 ```mermaid
 classDiagram
@@ -26,7 +26,7 @@ classDiagram
     }
     class AparelhoTelefonico{
       +Int numero
-      +ligar(String numero) void
+      +ligar(Int numero) void
       +atender() void
       +iniciarCorreioVoz() void
     }
