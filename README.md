@@ -16,6 +16,7 @@ Este projeto visa modelar e diagramar um componente iPhone, focando nas funciona
 
 ## DIAGRAMA UML
 
+```mermaid
 classDiagram
     class ReprodutorMusical{
       +String musica
@@ -36,18 +37,15 @@ classDiagram
       +atualizarPagina() void
     }
     class iPod{
-
     }
     class Celular{
-
     }
     class Browser{
-
     }
-
     iPhone --|> ReprodutorMusical
     iPhone --|> AparelhoTelefonico
     iPhone --|> NavegadorInternet
     iPod --|> ReprodutorMusical
     Celular --|> AparelhoTelefonico
     Browser --|> NavegadorInternet
+    ```
