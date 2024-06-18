@@ -6,8 +6,6 @@ import funcoes.reprodutormusical.ReprodutorMusical;
 
 public class IPhone implements AparelhoTelefonico, NavegadorInternet, ReprodutorMusical {
 
-    int numero;
-    
     public void ligar(int numero) {
         System.out.println("LIGANDO VIA INTERFACE CELULAR");
     }
