@@ -9,4 +9,4 @@ Este projeto visa modelar e diagramar um componente iPhone, focando nas funciona
 - **Navegador na Internet**: Possibilita exibir páginas da web, adicionar novas abas e atualizar páginas existentes.
 
 ## Contato
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/marcos-rafael-r-dos-santos-105790257))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-rafael-r-dos-santos-105790257)
